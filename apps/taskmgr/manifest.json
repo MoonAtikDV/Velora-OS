@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "package": "velora.taskmgr",
+  "name": "Task Manager",
+  "version": "0.6.0",
+  "developer": "VeloraOS",
+  "entry": "native:taskmgr",
+  "icon": "icon.png",
+  "type": "system"
+}

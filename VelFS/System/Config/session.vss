@@ -1,0 +1,24 @@
+# VeloraOS session
+wallpaper=8
+taskbarH=48
+rounding=36
+pin=settings
+pin=files
+pin=terminal
+pin=calculator
+pin=clor
+recent=settings
+recent=files
+recent=system
+recent=clor
+recent=calculator
+desk=calculator,1,1
+desk=clock,1,2
+desk=clor,1,3
+desk=files,1,4
+desk=gallery,1,5
+desk=hello_python,1,6
+desk=logs,1,7
+desk=notes,1,8
+desk=settings,1,9
+desk=system,1,10

@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "package": "velora.hello_python",
+  "name": "Hello Python",
+  "version": "0.1.0",
+  "developer": "VeloraOS",
+  "type": "python",
+  "entry": "main.py",
+  "icon": "icon.png"
+}

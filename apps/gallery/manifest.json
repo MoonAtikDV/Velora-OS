@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "package": "velora.gallery",
+  "name": "Gallery",
+  "version": "0.5.0",
+  "developer": "VeloraOS",
+  "entry": "native:gallery",
+  "icon": "icon.png",
+  "type": "system"
+}

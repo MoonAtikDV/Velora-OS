@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "package": "velora.calculator",
+  "name": "Calculator",
+  "version": "0.5.0",
+  "developer": "VeloraOS",
+  "entry": "native:calculator",
+  "icon": "icon.png",
+  "type": "system"
+}

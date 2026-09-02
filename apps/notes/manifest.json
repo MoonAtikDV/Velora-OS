@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "package": "velora.notes",
+  "name": "Notes",
+  "version": "0.5.0",
+  "developer": "VeloraOS",
+  "entry": "native:notes",
+  "icon": "icon.png",
+  "type": "system"
+}

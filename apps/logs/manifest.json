@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "package": "velora.logs",
+  "name": "Logs",
+  "version": "0.5.0",
+  "developer": "VeloraOS",
+  "entry": "native:logs",
+  "icon": "icon.png",
+  "type": "system"
+}

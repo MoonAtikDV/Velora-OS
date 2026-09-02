@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "package": "velora.clock",
+  "name": "Clock",
+  "version": "0.5.0",
+  "developer": "VeloraOS",
+  "entry": "native:clock",
+  "icon": "icon.png",
+  "type": "system"
+}

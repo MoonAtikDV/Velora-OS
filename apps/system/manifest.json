@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "package": "velora.system",
+  "name": "System",
+  "version": "0.5.0",
+  "developer": "VeloraOS",
+  "entry": "native:system",
+  "icon": "icon.png",
+  "type": "system"
+}

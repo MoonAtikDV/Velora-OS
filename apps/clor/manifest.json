@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "package": "velora.clor",
+  "name": "Clor",
+  "version": "0.5.0",
+  "developer": "VeloraOS",
+  "entry": "native:clor",
+  "icon": "icon.png",
+  "type": "system"
+}

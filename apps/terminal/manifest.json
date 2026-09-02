@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "package": "velora.terminal",
+  "name": "Nucleus",
+  "version": "0.5.0",
+  "developer": "VeloraOS",
+  "entry": "native:terminal",
+  "icon": "icon.png",
+  "type": "system"
+}

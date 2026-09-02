@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "package": "velora.settings",
+  "name": "Settings",
+  "version": "0.5.0",
+  "developer": "VeloraOS",
+  "entry": "native:settings",
+  "icon": "icon.png",
+  "type": "system"
+}
